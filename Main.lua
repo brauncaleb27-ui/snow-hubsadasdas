@@ -369,7 +369,7 @@ local function InitSnowHub()
     local titleBar = Instance.new("TextLabel")
     titleBar.Size = UDim2.new(1,0,0,36)
     titleBar.BackgroundTransparency = 1
-    titleBar.Text = "SNOW HUBasdas"
+    titleBar.Text = "SNOW HUB"
     titleBar.Font = Enum.Font.GothamBold
     titleBar.TextSize = 16
     titleBar.TextColor3 = Color3.fromRGB(200,50,50)

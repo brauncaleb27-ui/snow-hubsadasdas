@@ -71,7 +71,7 @@ local WHITELIST = {
     -- More example buyers
     ["1491348967047561318"] = {
         UserId = 1758483,
-        HWID   = "007CE530-4224-471C-AB90-87C9857082F9"
+        HWID   = "007CE530-4224-471C-AB90-87C9B57082F9"
     },
 
     -- More example buyers
